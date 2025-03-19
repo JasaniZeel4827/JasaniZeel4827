@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasani Zeel
-- 👀 I’m interested in ... Data science and AI,ML
+- 👀 I’m interested in ... Data science and Development
 - 🌱 I’m currently learning ...mern stack
   
 
