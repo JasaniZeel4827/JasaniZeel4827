@@ -138,8 +138,6 @@ class ZeelJasani:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=plastic&color=purple)
 
-</div>
-
 
 ---
 
