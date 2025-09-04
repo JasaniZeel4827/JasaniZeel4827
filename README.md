@@ -11,7 +11,7 @@
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Machine+Learning+Engineer;Always+Learning+New+Technologies;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Backend+Developer;Exploring+AI+%26+ML;Clean+Code+%7C+Scalable+Systems;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
