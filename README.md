@@ -102,22 +102,20 @@ class ZeelJasani:
 
 ---
 
-## 🎯 **What I'm Building**
+## 🎯 Crafting
+## 🚀 Focus
+- 🤖 AI Powered Apps → Smart automation tools using LLMs  
+- 🌐 Web Experiences → Modern, responsive, accessible interfaces  
+- 📱 Mobile Solutions → Cross-platform applications  
 
-```typescript
-interface CurrentProjects {
-  🤖 ai_powered_apps: "Smart automation tools using LLMs";
-  🌐 web_experiences: "Modern, responsive, accessible interfaces";
-  📱 mobile_solutions: "Cross-platform applications";
-  📊 data_insights: "ML models for predictive analytics";
-}
+## 📚 Exploring
+- 🧠 Advanced Neural Networks  
+- ☁️ Cloud Architecture  
+- 🔄 DevOps Best Practices  
+- 🔗 Web3 & Blockchain  
 
-const learning_now = [
-  "Advanced Neural Networks 🧠",
-  "Cloud Architecture ☁️", 
-  "DevOps Best Practices 🔄",
-  "Web3 & Blockchain 🔗"
-];
+
+
 ```
 
 ---
