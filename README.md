@@ -44,7 +44,7 @@ class ZeelJasani:
 
 
 <div align="center">
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center" style="border: 2px solid #00D9FF; border-radius: 10px; padding: 20px;">
 
