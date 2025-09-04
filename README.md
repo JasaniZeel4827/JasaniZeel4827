@@ -132,19 +132,20 @@ class ZeelJasani:
 
 <div align="center">
 
-> 💭 *"Every line of code is a step toward innovation."*  
+💭 *"Every line of code is a step toward innovation."*  
 
 🌍 Open to collaborations and new opportunities.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=plastic&color=purple)
 
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+✨ Thanks for stopping by!  
+Feel free to explore my repositories and reach out for collaborations or just a friendly chat about tech 🚀  
+
 </div>
 
----
-
-*✨ Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat about tech! 🚀*
