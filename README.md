@@ -1,13 +1,13 @@
-# ✨ Hey, I'm **Zeel** — Code Architect & AI Innovator
+# ✨ Hey, I'm **Zeel** — Software Developer & Backend Developer
 
-> *"Building the future, one algorithm at a time"* 🚀
+> 💭 *Focused on clean code, scalability, and modern web apps.*
 
 ```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  🎯 Passionate about crafting intelligent systems               │
-│  🌟 Bridging creativity with cutting-edge technology           │
-│  ⚡ Transforming ideas into scalable digital experiences        │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│ 🎯 Systems that think                    │
+│ 🌟 Designs that inspire                  │
+│ ⚡ Code that scales                      │
+└──────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -21,21 +21,21 @@
 ```python
 class ZeelJasani:
     def __init__(self):
-        self.role = "Software Architect & AI & ML Engineer "
+        self.role = "Software Developer & Backend Developer"
         self.location = "India 🇮🇳"
-        self.mindset = "Growth-oriented, Problem-solver"
-        self.passion = ["Clean Code", "AI/ML", "User Experience"]
+        self.mindset = "Curious, Problem-solver"
+        self.passion = ["Clean Code", "Web Development", "User Experience"]
     
     def current_focus(self):
         return [
-            "🤖 Generative AI Applications",
-            "🔥 Modern Web Architecture", 
-            "📊 Data-Driven Solutions",
+            "🔥 Modern Web & Mobile Applications",
+            "⚡ Scalable Backend Systems",
+            "☁️ Cloud & DevOps",
             "🚀 Performance Optimization"
         ]
     
     def life_motto(self):
-        return "Code with purpose, innovate with passion! ✨"
+        return "Keep it simple, make it reliable ✨"
 ```
 
 ---
@@ -45,32 +45,47 @@ class ZeelJasani:
 <div align="center">
 
 ### **Core Languages**
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### **Core Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frontend Mastery**
+---
+
+### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) -->
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
 ### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### **AI/ML Toolkit**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+---
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
 
 </div>
 
