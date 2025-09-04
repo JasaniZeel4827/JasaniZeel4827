@@ -117,18 +117,6 @@ class ZeelJasani:
 
 ---
 
-## 🌟 **Achievement Highlights**
-
-<div align="center">
-
-🏆 **Problem Solver** • 💡 **AI Enthusiast** • 🚀 **Innovation Driver**
-
-`🔥 500+ commits this year` • `⭐ Growing open source contributions` • `📚 Continuous learner`
-
-</div>
-
----
-
 ## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
@@ -143,14 +131,15 @@ class ZeelJasani:
 ---
 
 <div align="center">
-  
-### 💭 *"The best code is not just functional, but elegant and meaningful"*
 
-**⚡ Always open to interesting conversations and collaboration opportunities!**
+> 💭 *"Every line of code is a step toward innovation."*  
 
-<img src="https://komarev.com/ghpvc/?username=JasaniZeel4827&style=for-the-badge&color=00d9ff" alt="Profile Views" />
+🌍 Open to collaborations and new opportunities.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=plastic&color=purple)
 
 </div>
+
 
 ---
 
