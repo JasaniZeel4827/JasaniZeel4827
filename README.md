@@ -16,7 +16,7 @@
 
 ---
 
-## 🎨 **My Design Philosophy**
+## 🎨 **🛠️ How I Build**
 
 ```python
 class ZeelJasani:
@@ -40,7 +40,7 @@ class ZeelJasani:
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **🛠️ Tools & Technologies**
 
 <div align="center">
 
