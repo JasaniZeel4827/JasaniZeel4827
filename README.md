@@ -115,9 +115,6 @@ class ZeelJasani:
 - 🔗 Web3 & Blockchain  
 
 
-
-```
-
 ---
 
 ## 🌟 **Achievement Highlights**
