@@ -136,7 +136,8 @@ class ZeelJasani:
 
 🌍 Open to collaborations and new opportunities.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=plastic&color=purple)
+
+![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=plastic&color=blueviolet)
 
 ---
 
