@@ -8,6 +8,8 @@ Passionate about building scalable web applications and backend systems. I focus
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,6 +38,8 @@ Passionate about building scalable web applications and backend systems. I focus
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</div>
 
 
 
