@@ -1,8 +1,6 @@
 # Hi, I'm Zeel 👋
 
-**Software Developer & Backend Developer** from India 🇮🇳
-
-> Building scalable systems with clean, maintainable code
+**Software Developer & Backend Developer**
 
 ## About Me
 
