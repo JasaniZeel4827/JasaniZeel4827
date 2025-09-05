@@ -1,152 +1,54 @@
-# ✨ Hey, I'm **Zeel** — Software Developer & Backend Developer
+# Hi, I'm Zeel 👋
 
-> 💭 *Focused on clean code, scalability, and modern web & monile apps.*
+**Software Developer & Backend Developer** from India 🇮🇳
 
-```ascii
-┌──────────────────────────────────────────┐
-│ 🎯 Systems that think                    │
-│ 🌟 Designs that inspire                  │
-│ ⚡ Code that scales                      │
-└──────────────────────────────────────────┘
-```
+> Building scalable systems with clean, maintainable code
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Backend+Developer;Exploring+AI+%26+ML;Clean+Code+%7C+Scalable+Systems;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+## About Me
 
----
+Passionate about building scalable web applications and backend systems. I focus on writing clean, maintainable code and exploring modern technologies like AI/ML integration.
 
-## 🎨 **🛠️ How I Build**
+## Tech Stack
 
-```python
-class ZeelJasani:
-    def __init__(self):
-        self.role = "Software Developer & Backend Developer"
-        self.location = "India 🇮🇳"
-        self.mindset = "Curious, Problem-solver"
-        self.passion = ["Clean Code", "Web Development", "User Experience"]
-    
-    def current_focus(self):
-        return [
-            "🔥 Modern Web & Mobile Applications",
-            "⚡ Scalable Backend Systems",
-            "☁️ Cloud & DevOps",
-            "🚀 Performance Optimization"
-        ]
-    
-    def life_motto(self):
-        return "Keep it simple, make it reliable ✨"
-```
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
----
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 🛠️ **🛠️ Tools & Technologies**
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+
+## GitHub Stats
 
 <div align="center">
-🛠️ Tech Stack
-
-<div align="center" style="border: 2px solid #00D9FF; border-radius: 10px; padding: 20px;">
-
-### 🌐 Core Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### ⚙️ Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
----
-
-### 🛠️ Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasaniZeel4827&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaniZeel4827&layout=compact&theme=dark"/>
 </div>
 
-</div>
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeel-jasani)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/deltapixel3777?t=HUWoM2RW0FI1kVDVC1OBmw&s=08)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeel.jasani@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/zeel.jasani)
 
 ---
 
-## 📊 **GitHub Analytics**
+*Open to collaborations and new opportunities!*
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasaniZeel4827&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaniZeel4827&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasaniZeel4827&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff"/>
-</div>
-
----
-
-## 🎯 Crafting
-## 🚀 Focus
-- 🤖 AI Powered Apps → Smart automation tools using LLMs  
-- 🌐 Web Experiences → Modern, responsive, accessible interfaces  
-- 📱 Mobile Solutions → Cross-platform applications  
-
-## 📚 Exploring
-- 🧠 Advanced Neural Networks  
-- ☁️ Cloud Architecture  
-- 🔄 DevOps Best Practices  
-- 🔗 Web3 & Blockchain  
-
-
----
-
-## 🤝 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/deltapixel3777?t=HUWoM2RW0FI1kVDVC1OBmw&s=08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeel-jasani)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeel.jasani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeel.jasani@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-💭 *"Every line of code is a step toward innovation."*  
-
-🌍 Open to collaborations and new opportunities.  
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=plastic&color=blueviolet)
-
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
-
-✨ Thanks for stopping by!  
-Feel free to explore my repositories and reach out for collaborations or just a friendly chat about tech 🚀  
-
-</div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=JasaniZeel4827&style=flat&color=blue)
