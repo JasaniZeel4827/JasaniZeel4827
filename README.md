@@ -61,7 +61,7 @@ Passionate about building scalable web applications and backend systems. I focus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeel-jasani-808417365/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/deltapixel3777?t=HUWoM2RW0FI1kVDVC1OBmw&s=08)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jasanizeel487@gmail.com)
-[![Instagram](https://www.instagram.com/___zeelll___?igsh=MTZjZ2NmNG5wMGk5NA==)
+[![Instagram](https://www.instagram.com/___zeelll___?igsh=MTZjZ2NmNG5wMGk5NA==)]
 
 ---
 
