@@ -2,8 +2,6 @@
 
 **Software Developer & Backend Developer** from India 🇮🇳
 
-> Building scalable systems with clean, maintainable code
-
 ## About Me
 
 Passionate about building scalable web applications and backend systems. I focus on writing clean, maintainable code and exploring modern technologies like AI/ML integration.
@@ -45,17 +43,6 @@ Passionate about building scalable web applications and backend systems. I focus
 
 
 
-## Current Focus
-
-
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasaniZeel4827&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaniZeel4827&layout=compact&theme=dark"/>
-</div>
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeel-jasani-808417365/)
@@ -64,7 +51,6 @@ Passionate about building scalable web applications and backend systems. I focus
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___zeelll___?igsh=MTZjZ2NmNG5wMGk5NA==)
 
 
----
 
 *Open to collaborations and new opportunities!*
 
